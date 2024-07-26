@@ -1,3 +1,5 @@
+[🇨🇳](README_CN.md)[中文](README_CN.md)
+
 # :tada: Introduction
 
 gopic is an image hosting tool designed for uploading to services like Qiniu Cloud or GitHub. It is simple to use, easy to develop plugins for, fully concurrent, and highly decoupled.

@@ -1,3 +1,5 @@
+[🇺🇸](README.md)[English](README.md)
+
 # :tada:简介
 
 gopic 是一个图床工具，用来上传到七牛云或者github 等，使用简单，容易开发插件，全并发，充分解耦
