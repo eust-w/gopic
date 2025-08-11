@@ -198,3 +198,10 @@ The time T11 for `using one plugin to transfer one image` and Tmn for `using m p
 ### High Decoupling
 
 Plugins are fully decoupled from the framework, allowing for independent plugin development.
+
+### Thanks
+
+在 GitHub 项目 README 添加声明："本项目 CDN 加速及安全防护由 Tencent EdgeOne 赞助"
+<img width="2163" height="308" alt="image" src="https://github.com/user-attachments/assets/9669b600-903b-4837-a54a-990276d910e4" />[亚洲最佳 CDN、边缘和安全解决方案 - Tencent EdgeOne](https://edgeone.ai/zh?from=github)
+
+
